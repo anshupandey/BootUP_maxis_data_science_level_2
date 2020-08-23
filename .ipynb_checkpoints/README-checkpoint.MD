@@ -25,21 +25,28 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Module 1 - "
+    "Module 1 - https://github.com/anshupandey/BootUP_maxis_data_science_level_2/tree/master/Module%201"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Module 2 - "
+    "Module 2 - https://github.com/anshupandey/BootUP_maxis_data_science_level_2/tree/master/Module%202"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Module 3 - "
+    "Module 3 - https://github.com/anshupandey/BootUP_maxis_data_science_level_2/tree/master/Module%203"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "Module 4 - "
    ]
   }
  ],

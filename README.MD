@@ -39,7 +39,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Module 3 - "
+    "Module 3 - https://github.com/anshupandey/BootUP_maxis_data_science_level_2/tree/master/Module%203"
    ]
   },
   {
