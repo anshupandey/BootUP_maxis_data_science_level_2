@@ -36,37 +36,22 @@ IFrame("Module 1 Drawings.pdf", width=600, height=800)
 
 
 
-
-
-<iframe
-    width="600"
-    height="800"
-    src="Module 1 Drawings.pdf"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
-
-
-
-
 ```python
 from IPython.display import IFrame
 IFrame("Module1 - Drawing_2.pdf", width=600, height=800)
 ```
 
 
-
-
-
-<iframe
-    width="600"
-    height="800"
-    src="Module1 - Drawing_2.pdf"
-    frameborder="0"
-    allowfullscreen
-></iframe>
-
+<object data="https://github.com/anshupandey/BootUP_maxis_data_science_level_2/blob/master/Module%201/Module%201%20Drawings.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/anshupandey/BootUP_maxis_data_science_level_2/blob/master/Module%201/Module%201%20Drawings.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/anshupandey/BootUP_maxis_data_science_level_2/blob/master/Module%201/Module%201%20Drawings.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+<object data="https://github.com/anshupandey/BootUP_maxis_data_science_level_2/blob/master/Module%201/Module1%20-%20Drawing_2.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/anshupandey/BootUP_maxis_data_science_level_2/blob/master/Module%201/Module1%20-%20Drawing_2.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/anshupandey/BootUP_maxis_data_science_level_2/blob/master/Module%201/Module1%20-%20Drawing_2.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 
