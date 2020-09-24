@@ -1,10 +1,11 @@
-Note: this is readme for Telcom customer churn prediction, UAT testing
+Note: this is readme for Telecom customer churn prediction, UAT testing
 
 ******************** Essential Environment **********************
 1. Software to be installed: python 3.6 or above
 2. python packages: pandas, joblib
 3. Python should be added as environment variable path
 
+################################################################################################################
 ******************** Data Format ********************************
 The format has to be same as the file file input_data.xlsx
 columns order: International plan,Number vmail messages,Total day minutes,Total eve minutes,Total night minutes,Total intl minutes,Customer service calls
