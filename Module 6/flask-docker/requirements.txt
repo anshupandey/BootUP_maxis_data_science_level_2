@@ -1,6 +1,7 @@
 flask
+scipy
 requests
 joblib
 numpy
 pandas
-json
+scikit-learn
