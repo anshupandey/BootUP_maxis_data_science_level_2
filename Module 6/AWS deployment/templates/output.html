@@ -1,0 +1,19 @@
+<html>
+    <body>
+        <center>
+            <h1><hr> Telecom Churn Prediction Dashboard <hr></h1>
+            <br><br><br>
+            <table border=2>
+                {% for key,value in output.items()%}
+                <tr>
+                    <th>{{key}}</th>
+                    <td>{{value}}</td>
+                </tr>
+                {% endfor %}
+            </table>
+            <a href="http://127.0.0.1:5000/"><button> Go Back </button></a>
+            <br>
+            <hr><p> Designed by BootUP </p><hr>
+        </center>
+    </body>
+</html>
