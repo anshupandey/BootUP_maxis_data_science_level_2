@@ -11,4 +11,4 @@ def main2():
     return "Hello from ML model - telecom churn prediction"
 
 if __name__=="__main__":
-    app.run(debug=True)
+    app.run(debug=False,host="0.0.0.0",port=8080)
