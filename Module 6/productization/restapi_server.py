@@ -8,7 +8,7 @@ import json
 app = Flask(__name__)
 
 #load the pickle files
-model = joblib.load("churn_prediction.pkl")
+model = joblib.load("model.pkl")
 preprocessor = joblib.load("preprocessor.pkl")
 
 # use generator to trigger a function whenever a request is received on server
